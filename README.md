@@ -13,3 +13,4 @@
 ### 2017-08-02
 1. Confusion matrix (precision, recall, f_beta score)
 2. What is an ROC curve?
+3. What is the R2 score?
